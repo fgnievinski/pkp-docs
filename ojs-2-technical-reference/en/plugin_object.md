@@ -31,7 +31,7 @@ class ExamplePlugin extends GenericPlugin {
         $params =& $args[0]; 
         $smarty =& $args[1]; 
         $output =& $args[2]; 
-        $output = '<li>&#187; <a href=”http://pkp.sfu.ca”>My New Link</a></li>'; 
+        $output = '<li>&#187; <a href=”https://pkp.sfu.ca”>My New Link</a></li>'; 
         return false; 
     } 
 } 

@@ -108,7 +108,7 @@ You can link to full URLs as well as local files using ``<href>``. A full URL li
 <galley>
     <label>`PDF`</label>
         <file>
-            <href src="http://www.example.com/import_files/my_file.pdf" mime_type="application/pdf"/>
+            <href src="https://www.example.com/import_files/my_file.pdf" mime_type="application/pdf"/>
         </file>
 </galley>
 ```

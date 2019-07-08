@@ -15,7 +15,7 @@ An important way of helping people find your journal, and helping libraries and 
 
 Many external services, including indexing services such as the [Directory of Open Access Journals](https://doaj.org), require that journals have an ISSN.
 
-An ISSN can be obtained free of charge from a [local ISSN Centre](http://www.issn.org/services/requesting-an-issn/).
+An ISSN can be obtained free of charge from a [local ISSN Centre](https://www.issn.org/services/requesting-an-issn/).
 
 ![LAC ISSN](assets/chapter1/lac-issn.png)
 _An example of an ISSN application from Library and Archives Canada_
@@ -41,7 +41,7 @@ The Digital Object Identifier or DOI is used to individually identify unique con
 ### The anatomy of a DOI
 A DOI consists of a series of characters divided into two parts -- a prefix and a suffix, which are separated by a slash. The prefix uniquely identifies the registrant (i.e. the publisher) of the title, and the suffix identifies the specific object.
 
-For example, the article [“Health Care Professionals’ Opinions and Expectations of Clinical Pharmacy Services on a Surgical Ward”](http://www.cjhp-online.ca/index.php/cjhp/article/view/1606) has the DOI 10.4212/cjhp.v69i6.1606
+For example, the article [“Health Care Professionals’ Opinions and Expectations of Clinical Pharmacy Services on a Surgical Ward”](https://www.cjhp-online.ca/index.php/cjhp/article/view/1606) has the DOI 10.4212/cjhp.v69i6.1606
 
 * The “10.” part of the prefix identifies the DOI registry or the agency that issues the DOI numbers - in this example the agency is Crossref.
 * The characters “4212” in the prefix identify the registrant - in this case, the publisher is Multimed.
@@ -55,11 +55,11 @@ DOIs are capable of identifying a journal, an individual issue or volume of a jo
 You may often see DOIs communicated as URLs: “https://dx.doi.org/10.4212/cjhp.v69i6.1606.” This method can be used to obtain any article that has a DOI, by indicating the DOI following the “dx.doi.org.”
 
 ### Setting up DOIs in OJS
-Journals publishing with OJS will find it very easy to work with DOIs. However, some initial setup steps are required. First, you will need to register with [Crossref](https://www.crossref.org/membership/), which does require an annual fee. Further integration regarding OJS’ integration with Crossref can be found in the [Crossref manual](http://docs.pkp.sfu.ca/crossref/). You will then need to enable the DOI plugin within the OJS Journal Settings. [Using DOIs and the DOI plugin](http://docs.pkp.sfu.ca/dois/) provides you with the detailed steps you need to follow to configure DOIs for OJS.
+Journals publishing with OJS will find it very easy to work with DOIs. However, some initial setup steps are required. First, you will need to register with [Crossref](https://www.crossref.org/membership/), which does require an annual fee. Further integration regarding OJS’ integration with Crossref can be found in the [Crossref manual](https://docs.pkp.sfu.ca/crossref/). You will then need to enable the DOI plugin within the OJS Journal Settings. [Using DOIs and the DOI plugin](https://docs.pkp.sfu.ca/dois/) provides you with the detailed steps you need to follow to configure DOIs for OJS.
 
 ### Registering your DOIs in OJS
 
-Once you have joined Crossref and configured OJS to use DOIs, you will need to register your content as it is published. OJS can be used to manually deposit DOIs to CrossRef, or configured to automatically deposit DOIs. A step-by-step guide to making DOI deposits to CrossRef can be found in the [Crossref manual](http://docs.pkp.sfu.ca/crossref/).
+Once you have joined Crossref and configured OJS to use DOIs, you will need to register your content as it is published. OJS can be used to manually deposit DOIs to CrossRef, or configured to automatically deposit DOIs. A step-by-step guide to making DOI deposits to CrossRef can be found in the [Crossref manual](https://docs.pkp.sfu.ca/crossref/).
 
 ### Open Researcher and Contributor ID (ORCID)
 
@@ -70,7 +70,7 @@ The Open Research and Contributor ID (ORCID) is a persistent digital identifier 
 An ORCID can be obtained by any researcher by [registering on the ORCID website](https://orcid.org/register). Registering for an ORCID is free, and filling out a basic profile takes just a few minutes.
 
 
-Here’s an example of an ORCID profile: [http://orcid.org/0000-0001-6192-8687](http://orcid.org/0000-0001-6192-8687) for researcher and PKP Director John Willinsky.
+Here’s an example of an ORCID profile: [https://orcid.org/0000-0001-6192-8687](https://orcid.org/0000-0001-6192-8687) for researcher and PKP Director John Willinsky.
 
 ![LAC ISSN](assets/chapter1/willinsky-orcid.png)
 
@@ -190,7 +190,7 @@ Indexing services ensure that scholarly content is discoverable and accessible t
 
 Indexes can broadly be categorized as commercial and open. Both have their advantages and disadvantages and are explored in further detail in the sections that follow.
 
-Those seeking maximum exposure for journals are advised to pursue inclusion in as many indexes as is appropriate and possible. It is prudent to bear in mind the significant [documented advantages of publishing in an open access format in terms of usage and impact](http://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/). These advantages are magnified by indexing with open indexes.
+Those seeking maximum exposure for journals are advised to pursue inclusion in as many indexes as is appropriate and possible. It is prudent to bear in mind the significant [documented advantages of publishing in an open access format in terms of usage and impact](https://sparceurope.org/what-we-do/open-access/sparc-europe-open-access-resources/open-access-citation-advantage-service-oaca/oaca-list/). These advantages are magnified by indexing with open indexes.
 
 It is strategic to target indexes for your journal that address the needs of the scholarly community engaging with your publication. These vary from one discipline to the next. Journal editors are advised to consult [Ulrichs Web Global Serials Directory](https://ulrichsweb.serialssolutions.com/), a commercial service for which institutional libraries may have a subscription. A common strategy is to look up related journals in your subject area within Ulrichs and explore their abstracting & indexing affiliations. This figure shows a tab that be expanded within a respective journal’s description page within Ulrichs.
 
@@ -243,7 +243,7 @@ In order to be included within the PKP Index, your journal must include at least
 
 #### Registering for the PKP Index
 
-To register for the PKP Index, go to the [registration page for the PKP Index](http://index.pkp.sfu.ca/index.php/user/register), follow the instructions, and ensure that you adhere to the requirements noted on the registration page.
+To register for the PKP Index, go to the [registration page for the PKP Index](https://index.pkp.sfu.ca/index.php/user/register), follow the instructions, and ensure that you adhere to the requirements noted on the registration page.
 
 Processing the registration might take a few days to a week or so, as PKP staff approve the registrations. Check back after a short time, and click on “Browse” to see an alphabetical listing of all publications that are included in the PKP Index and you should see your publication appear. Future issues will be automatically included in the PKP Index; no further action is required on your part.
 
@@ -298,7 +298,7 @@ A knowledge base in the context of electronic resource management refers to a da
 * Maintaining lists of journal titles that are searchable, are browsable, and that link to publisher platform
 * Populating unified / federated indexes of content for “discovery” by specific communities of users
 
-Knowledge bases and link resolvers, journal title lists, and discovery tools may be more or less interoperable, and may be open source projects, but are more frequently developed and maintained by commercial service providers. In either event, representation of title-level metadata in a knowledge base is prerequisite to link resolving, presence in user-facing journal lists, and indexing in discovery tools such as[Summon](https://www.proquest.com/products-services/The-Summon-Service.html), [EBSCO discovery service](https://www.ebscohost.com/discovery), and [Primo](http://www.exlibrisgroup.com/products/primo-library-discovery/).
+Knowledge bases and link resolvers, journal title lists, and discovery tools may be more or less interoperable, and may be open source projects, but are more frequently developed and maintained by commercial service providers. In either event, representation of title-level metadata in a knowledge base is prerequisite to link resolving, presence in user-facing journal lists, and indexing in discovery tools such as[Summon](https://www.proquest.com/products-services/The-Summon-Service.html), [EBSCO discovery service](https://www.ebscohost.com/discovery), and [Primo](https://www.exlibrisgroup.com/products/primo-library-discovery/).
 
 Frequently, participation in open indexes such as the PKP Index or the DOAJ (as detailed above) will also achieve representation even in commercial knowledge bases, which often seek to include Open Access materials as value-added resources. However, the completeness and currency of open access title lists in knowledge bases varies, and it may be necessary to contact a knowledge base provider to request inclusion or an update to a title list that should include a journal but does not.
 
@@ -309,18 +309,18 @@ Frequently, participation in open indexes such as the PKP Index or the DOAJ (as 
 
 Commercial indexes and aggregators are collections of journal citation details (such as author names, article title, journal title, volume and issue numbers, abstracts, etc. – also known as “metadata”) maintained in a central, searchable database. As commercial services, these indexes are only available with a paid subscription and are often accessed by readers through their library. Significant portions of many academic library budgets go toward making these commercial products freely available to their faculty and students. One of the most influential indexes is [Clarivate Analytics](https://clarivate.com/) (previously Thomson Reuters) [Web of Science](https://clarivate.com/products/web-of-science/).
 
-Some indexes may be focused on a single discipline, such as [PsycInfo](http://www.apa.org/psycinfo/) for psychology, whereas others are multidisciplinary, such as Elsevier’s [Scopus](https://www.elsevier.com/solutions/scopus). Some combine information from hundreds of journals, and others may only include the metadata from a few. Some indexes are produced by scholarly societies or nonprofit organizations, and others are produced by for-profit businesses. Commercial indexes are often an  important way for readers to find your content, and getting included in one or more of them is important for your journal’s success.
+Some indexes may be focused on a single discipline, such as [PsycInfo](https://www.apa.org/psycinfo/) for psychology, whereas others are multidisciplinary, such as Elsevier’s [Scopus](https://www.elsevier.com/solutions/scopus). Some combine information from hundreds of journals, and others may only include the metadata from a few. Some indexes are produced by scholarly societies or nonprofit organizations, and others are produced by for-profit businesses. Commercial indexes are often an  important way for readers to find your content, and getting included in one or more of them is important for your journal’s success.
 
 ### Listing your journal with commercial indexes
 
 How you get journal included in a subject index will vary from one subject database to the next. It’s possible that your journal may be approached by commercial index organizations such as ProQuest and EBSCO.
 
-One important consideration is the ownership of intellectual property. Often, part of the agreements that some commercial organizations will ask journals to sign will include a clause requiring that the journals have the rights to be able to grant the right for the index to include the journal's content as part of the database. In order to do this, the journal must have had an appropriate policy that has assigned the journal the appropriate rights to redistribute this content. Journal managers may wish to consult the following document, which [provides guidance for working with commercial aggregators](http://goo.gl/98YgL).
+One important consideration is the ownership of intellectual property. Often, part of the agreements that some commercial organizations will ask journals to sign will include a clause requiring that the journals have the rights to be able to grant the right for the index to include the journal's content as part of the database. In order to do this, the journal must have had an appropriate policy that has assigned the journal the appropriate rights to redistribute this content. Journal managers may wish to consult the following document, which [provides guidance for working with commercial aggregators](https://goo.gl/98YgL).
 
 The actual steps involved to getting material included in commercial databases will differ. For commercial indexes (and many other indexes) they will make information available on how to go about getting indexed as a part of their databases. For example:
 
 * [EBSCO publisher support](https://www.ebsco.com/publisher-support)
-* [Proquest publisher partnerships](http://www.proquest.com/about/publishers-partners/why-partner-with-proquest.html)
+* [Proquest publisher partnerships](https://www.proquest.com/about/publishers-partners/why-partner-with-proquest.html)
 
 
 ### Web of Science inclusion resources
@@ -331,17 +331,17 @@ Web of Science is another popular commercial index that many journals wish to ge
 
 *Web of Science Resources*
 
-* [Web of Science master journal list](http://ip-science.thomsonreuters.com/mjl/?utm_source=false&utm_medium=false&utm_campaign=false)
-* [Selection process: FAQs](http://wokinfo.com/essays/journal-selection-process/)
-* [Submission form](http://ip-science.thomsonreuters.com/info/journalsubmission-front/?utm_source=false&utm_medium=false&utm_campaign=false)
-* [Evaluation status update request](http://ip-science.thomsonreuters.com/info/jrneval-status/)
+* [Web of Science master journal list](https://ip-science.thomsonreuters.com/mjl/?utm_source=false&utm_medium=false&utm_campaign=false)
+* [Selection process: FAQs](https://clarivate.com/essays/journal-selection-process/)
+* [Submission form](http://mjl.clarivate.com/journal-submission/?utm_source=false&utm_medium=false&utm_campaign=false)
+* [Evaluation status update request](http://mjl.clarivate.com/journal-evaluation/)
 
 
 ## Promotion and Marketing
 
 > Contributed by Suzanne Jay and Kevin Stranack
 
-Promoting and marketing your journal to propspective audiences can be a great way to raise the profile of your journal. There are a variety of ways to go about this, including via social media, as well as getting media attention for research that your journal publishes.
+Promoting and marketing your journal to prospective audiences can be a great way to raise the profile of your journal. There are a variety of ways to go about this, including via social media, as well as getting media attention for research that your journal publishes.
 
 ### Social media
 
@@ -351,7 +351,7 @@ Social media is a valuable way to reach specific audiences to introduce and ampl
 
 While most platforms are available for use without fees, effective use requires a sustained investment of attention to plan and maintain. Tools such as Twitter, Facebook, Instagram, etc. can help you target an audience, but there is huge competition and lots of “noise.”
 
-Building an engaged social media following can absorb as many resources as you are willing to commit. Your social media plan should include recruiting the support of those who have already developed a credible profile and following among the target audience. Social media management tools bring multiple social media accounts into a single platform to facilitate scheduling of content, supervising contributors, and tracking metrics. It is worthwhile to determine your needs and capacities to select a suitable management tool. Few are free, most are subscription based. Examples include [Hootsuite](http://hootsuite.com) or [Social Pilot](https://socialpilot.co/?refer=UWUNR13U).
+Building an engaged social media following can absorb as many resources as you are willing to commit. Your social media plan should include recruiting the support of those who have already developed a credible profile and following among the target audience. Social media management tools bring multiple social media accounts into a single platform to facilitate scheduling of content, supervising contributors, and tracking metrics. It is worthwhile to determine your needs and capacities to select a suitable management tool. Few are free, most are subscription based. Examples include [Hootsuite](https://hootsuite.com) or [Social Pilot](https://socialpilot.co/?refer=UWUNR13U).
 
 #### Building a team
 
