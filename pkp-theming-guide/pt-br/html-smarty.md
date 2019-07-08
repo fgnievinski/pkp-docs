@@ -1,6 +1,6 @@
 # Templates(modelos) HTML/Smarty 
 
-O OJS e o OMP utilizam o sistema de templates(modelos) [Smarty](http://www.smarty.net/) para compilar os templates HTML. Smarty é uma sintaxe leve que permite que você use uma lógica similar ao PHP dentro de templates HTML. 
+O OJS e o OMP utilizam o sistema de templates(modelos) [Smarty](https://www.smarty.net/) para compilar os templates HTML. Smarty é uma sintaxe leve que permite que você use uma lógica similar ao PHP dentro de templates HTML.
 
 ## Localizando os Templates de _Frontend_
 

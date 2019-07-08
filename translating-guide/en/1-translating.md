@@ -3,7 +3,7 @@ Introduction
 
 OJS and OCS are multilingual systems, allowing journals and conferences to publish in a variety of languages. The Public Knowledge Project aims to support English, French, Spanish and Portuguese translations for both OJS and OCS. In addition, translations of both software packages have been completed by the community, and we welcome contributions at any time.
 
-All text you see in a typical fresh OxS interface has been abstracted from the system code, and has in fact been retrieved from one of a number of XML locale files. These files can be found in folders using appropriate ISO locale codes (the [Language Code Listing](http://www.loc.gov/standards/iso639-2/php/code_list.php) followed by the [Country Code Listing](http://www.iso.org/iso/country_codes/iso_3166_code_lists/english_country_names_and_code_elements.htm)), for example `en_US` for American English, or `pt_BR` for Brazilian Portuguese. This document will use `en_US` for its examples.
+All text you see in a typical fresh OxS interface has been abstracted from the system code, and has in fact been retrieved from one of a number of XML locale files. These files can be found in folders using appropriate ISO locale codes (the [Language Code Listing](https://www.loc.gov/standards/iso639-2/php/code_list.php) followed by the [Country Code Listing](https://www.iso.org/iso/country_codes/iso_3166_code_lists/english_country_names_and_code_elements.htm)), for example `en_US` for American English, or `pt_BR` for Brazilian Portuguese. This document will use `en_US` for its examples.
 
 These locale directories will typically have XML files containing lists of message keys written in them: these message keys and their corresponding values correspond to template lines in the system code itself. The following set of message keys are taken from `locale/en_US/locale.xml`:
 
@@ -103,9 +103,9 @@ Checking the PKP Website for Available Languages
 The PKP keeps an up-to-date list of languages and contributors from the
 relevant project page.
 
--   [OJS Languages List](http://pkp.sfu.ca/ojs-languages)
+-   [OJS Languages List](https://pkp.sfu.ca/contributors/translation/)
 
--   [OCS Languages List](http://pkp.sfu.ca/ocs-languages)
+-   [OCS Languages List](https://pkp.sfu.ca/contributors/translation/)
 
 Information is organized in a table, with the software version along the
 X axis and the list of languages on the Y axis. Clicking on a language
@@ -127,8 +127,7 @@ All languages fall into the following categories:
 
 If you don't see the language(s) you are looking for listed on either of
 these lists, please consider undertaking the translation yourself. If
-you are interested in contributing in such a way, [contact
-us](http://pkp.sfu.ca/contact) for advice, or consult the rest of this
+you are interested in contributing in such a way, [contact us](https://pkp.sfu.ca/contact) for advice, or consult the rest of this
 document.
 
 Installing a Language
@@ -169,7 +168,7 @@ Manager Language page. You can do this by checking the box beside
 Supported Locales and clicking <em>Save</em>.
 
 **Warning:** Visit your system information page
-(http://<your-site>/index.php/index/admin/systemInfo) and review your
+(https://<your-site>/index.php/index/admin/systemInfo) and review your
 "registry\_dir" variable to be sure you are editing the right
 locales.xml
 

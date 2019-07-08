@@ -303,7 +303,7 @@ Settings > Distribution > Permissions. See [Chapter 8: Distribution Settings](ht
 * If you include it elsewhere on your site, provide a link to that page.
 * This must be a link on your own site, not a link to Creative Commons.
 
-**50) Does the journal allow readers to read, download, copy, distribute, print, search, or link to the full texts of its articles and allow readers to use them for any other lawful purpose?** (From the [Budapest Open Access Initiative's definition of Open Access](http://www.budapestopenaccessinitiative.org/read).) \[**D**\]
+**50) Does the journal allow readers to read, download, copy, distribute, print, search, or link to the full texts of its articles and allow readers to use them for any other lawful purpose?** (From the [Budapest Open Access Initiative's definition of Open Access](https://www.budapestopenaccessinitiative.org/read).) \[**D**\]
 
 * Select "Yes" or "No".
 * **In order to be indexed in DOAJ, the answer here must be "Yes"**. If you have a CC license, this license determines what are the lawful purposes for reuse, e.g. non-commercial use only. A journal answering "No" will be automatically rejected.
@@ -401,7 +401,7 @@ In OJS select the Creative Commons license you will use in Settings > Distributi
 
 **6. Deposit policy** (Question 51)
 
-Provide information on authors self-archiving rights in a statement clarifying to authors what their rights are for self-archiving, which should cover their rights to self-archive preprint, accepted, final publisher versions of the article, usually in places like their own website or institutional repository. The DOAJ requires a policy to be listed for a journal and checks what policy is listed for the journal on services like [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php).
+Provide information on authors self-archiving rights in a statement clarifying to authors what their rights are for self-archiving, which should cover their rights to self-archive preprint, accepted, final publisher versions of the article, usually in places like their own website or institutional repository. The DOAJ requires a policy to be listed for a journal and checks what policy is listed for the journal on services like [SHERPA/RoMEO](https://www.sherpa.ac.uk/romeo/index.php).
 
 In OJS enter the journal’s Author Self-Archiving Policy in Settings > Distribution > Permissions
 

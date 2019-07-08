@@ -90,7 +90,7 @@ The following policy from _Current Oncology_ is an example of a clear and concis
 
 >“Following publication in Current Oncology, the full text of each article is available immediately and archived in PubMed Central (PMC), the U.S. National Library of Medicine's digital archive of biomedical and life sciences journal literature. This journal utilizes the LOCKSS system to create a distributed archiving system among participating libraries and permits those libraries to create permanent archives of the journal for purposes of preservation and restoration.”
 
-Source: [Archiving Policy. Current Oncology Journal](http://www.current-oncology.com/index.php/oncology/about/editorialPolicies#archiving)
+Source: [Archiving Policy. Current Oncology Journal](https://www.current-oncology.com/index.php/oncology/about/editorialPolicies#archiving)
 
 DOAJ checks the Keepers Registry to confirm that a journal’s archiving arrangements are as stated in its application. The PKP PN provides data about its holdings to the Keepers Registry so your journal will appear in the registry once it has been archived.
 

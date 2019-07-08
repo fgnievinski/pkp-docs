@@ -38,4 +38,4 @@ These errors should be relatively self-explanatory, and should at least point to
 
 # Checking Before You Submit
 
-Crossref offer an XML validation tool that can let you know errors before you submit your XML. Their [metadata quality check](http://www.crossref.org/02publishers/parser.html) service allows a user to upload their XML file and receive notification of any potential errors before they officially send in their DOIs. This can be handy for more immediately checking a DOI's status without having to wait for potential errors in feedback.
+Crossref offer an XML validation tool that can let you know errors before you submit your XML. Their [metadata quality check](https://www.crossref.org/02publishers/parser.html) service allows a user to upload their XML file and receive notification of any potential errors before they officially send in their DOIs. This can be handy for more immediately checking a DOI's status without having to wait for potential errors in feedback.

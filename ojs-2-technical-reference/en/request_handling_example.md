@@ -2,11 +2,11 @@
 
 Predictably, delegation of request handling occurs based on the request URL. A typical URL for a journal is:
 
-http://www.mylibrary.com/ojs2/index.php/myjournal/user/profile
+https://www.mylibrary.com/ojs2/index.php/myjournal/user/profile
 
 The following paragraphs describe in a basic fashion how the system handles a request for the above URL. It may be useful to follow the source code at each step for a more comprehensive understanding of the process.
 
-In this example, http://www.mylibrary.com/ojs2/index.php is the path to and filename of the root ``index.php`` file in the source tree. All requests pass through this PHP script, whose task is to ensure that the system is properly configured and to pass control to the appropriate place.
+In this example, https://www.mylibrary.com/ojs2/index.php is the path to and filename of the root ``index.php`` file in the source tree. All requests pass through this PHP script, whose task is to ensure that the system is properly configured and to pass control to the appropriate place.
 
 After ``index.php``, there are several more components to the URL. The function of the first two (in this case, ``myjournal`` and ``user``) is predefined; if others follow, they serve as parameters to the appropriate handler function.
 

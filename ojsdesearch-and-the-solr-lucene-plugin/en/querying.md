@@ -79,7 +79,7 @@ mm=100%
 
 ```
 
-does not as the min-match parameter will suddenly stop to work when used in conjunction with a fielded query. See[http://lucene.472066.n3.nabble.com/Dismax-mm-per-field-td3222594.html](http://lucene.472066.n3.nabble.com/Dismax-mm-per-field-td3222594.html). Actually the problem is worse than described in the cited article as can be seen in our example. The min-match parameter will stop to work even for the main query when adding a completely independent field query.
+does not as the min-match parameter will suddenly stop to work when used in conjunction with a fielded query. See [https://lucene.472066.n3.nabble.com/Dismax-mm-per-field-td3222594.html](https://lucene.472066.n3.nabble.com/Dismax-mm-per-field-td3222594.html). Actually the problem is worse than described in the cited article as can be seen in our example. The min-match parameter will stop to work even for the main query when adding a completely independent field query.
 
 This problem can be worked around with subqueries, though. When reformulating the above query as:
 
@@ -106,7 +106,7 @@ So why not doing it like this? The problem is another quirk of the min-match par
 
 ```
 
-Edismax will "optimize" the query by removing the stopword "die" from the query on the German title. A min-match setting of "100%" will cause all parts of the query to be mandatory, though. Now there obviously will be no match for the first search term in our example. And as this search phrase is marked "mandatory" by our min-match setting, the article will not be selected for the result set although it is certainly relevant. See [http://lucene.472066.n3.nabble.com/Dismax-Minimum-Match-Stopwords-Bug-td493483.html](http://lucene.472066.n3.nabble.com/Dismax-Minimum-Match-Stopwords-Bug-td493483.html)and[https://bibwild.wordpress.com/2010/04/14/solr-stop-wordsdismax-gotcha/](https://bibwild.wordpress.com/2010/04/14/solr-stop-wordsdismax-gotcha/)for details.
+Edismax will "optimize" the query by removing the stopword "die" from the query on the German title. A min-match setting of "100%" will cause all parts of the query to be mandatory, though. Now there obviously will be no match for the first search term in our example. And as this search phrase is marked "mandatory" by our min-match setting, the article will not be selected for the result set although it is certainly relevant. See [https://lucene.472066.n3.nabble.com/Dismax-Minimum-Match-Stopwords-Bug-td493483.html](https://lucene.472066.n3.nabble.com/Dismax-Minimum-Match-Stopwords-Bug-td493483.html)and[https://bibwild.wordpress.com/2010/04/14/solr-stop-wordsdismax-gotcha/](https://bibwild.wordpress.com/2010/04/14/solr-stop-wordsdismax-gotcha/)for details.
 
 The solutions proposed by solr's developers are to either remove stopword lists altogether, use the same stopword list for all fields \(aka languages\) or use a min-match setting of "1" \(i.e. implicit OR\). None of these solutions is compatible with our requirements.
 
@@ -218,7 +218,7 @@ In our case document boost opens up a few interesting possibilities to further t
 
 The question is how such data could be provided to solr. I propose that we implement an API in OJS that can receive and store document-level boost data for each article. This can be implemented as a non-mandatory setting in the article settings table. If such boost data is present then it will automatically be sent to solr at indexing time. We'll have to implement a normalization method so that editors can enter arbitrary numbers that will then be translated to proper boost factors. Changing the boost data would mean that the article would have to be re-indexed \(like any other change to search-related article meta-data\).
 
-Alternatively, advanced users can provide periodically updated files with document boost data, see http:// lucene.apache.org/solr/api/org/apache/solr/schema/ExternalFileField. html.
+Alternatively, advanced users can provide periodically updated files with document boost data, see https://lucene.apache.org/solr/api/org/apache/solr/schema/ExternalFileField. html.
 
 ## Instant Search
 

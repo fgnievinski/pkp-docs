@@ -4,5 +4,4 @@ Open Journal Systems (OJS) is a journal management and publishing system that ha
 
 Version 2.x represents a complete rebuild and rewrite of Open Journal Systems 1.x, based on two years of working with the editors of the 250 journals using OJS in whole or in part around the world. With the launch of OJS v2.0, the Public Knowledge Project is moving its open source software development (including Open Conference Systems and PKP Harvester) to Simon Fraser University Library, in a partnership that also includes the Canadian Center for Studies in Publishing at SFU.
 
-User documentation for OJS 2.x can be found on the Internet at http://pkp.sfu.ca/ojs_documentation; a demonstration site is available at http://pkp.sfu.ca/ojs_demo.
-
+User documentation for OJS 2.x can be found on the Internet at http://pkp.sfu.ca/ojs_documentation; a demonstration site is available at https://demo.publicknowledgeproject.org/ojs2/demo/index.php/demojournal.

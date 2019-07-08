@@ -1,6 +1,6 @@
 # Chapter 6: Authors
 
-OJS exists to serve Authors as well as journals. Not only does OJS provide an easy-to-use submission process, it can collect and disseminate key information about Authors and their work across important research and citation databases, including [Google Scholar](https://scholar.google.ca/), [PubMed](http://www.ncbi.nlm.nih.gov/pubmed/), the [Directory of Open Access Journals](https://doaj.org/), and others.
+OJS exists to serve Authors as well as journals. Not only does OJS provide an easy-to-use submission process, it can collect and disseminate key information about Authors and their work across important research and citation databases, including [Google Scholar](https://scholar.google.ca/), [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/), the [Directory of Open Access Journals](https://doaj.org/), and others.
 
 As an Author, your tasks include submission; submitting revised copy; copyediting; and proofreading.
 

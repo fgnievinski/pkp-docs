@@ -4,7 +4,7 @@ Template variables are generally assigned in the Page or Form class that calls t
 
 - ``defaultCharset``: the value of the “client_charset" setting from the [i18n] section of the ``config.inc.php`` configuration file
 - ``currentLocale``: The symbolic name of the current locale
-- ``baseUr``l: Base URL of the site, e.g. http://www.mylibrary.com
+- ``baseUr``l: Base URL of the site, e.g. https://www.mylibrary.com
 - ``requestedPage``: The symbolic name of the requested page
 - ``pageTitle``: Default name of locale key of page title; this should be replaced with a more appropriate setting in the template
 - ``siteTitle``: If the user is currently browsing a page associated with a journal, this is the journal title; otherwise the site title from Site Configuration

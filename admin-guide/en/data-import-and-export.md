@@ -215,7 +215,7 @@ To manually export article metadata to DOAJ:
 
 ### CrossRef XML Export Plugin
 
-The CrossRef XML Export Plugin allows you to automatically and manually export article metadata in CrossRef XML format for deposit with CrossRef.  For information about how to use this plugin, see the CrossRef OJS Manual: [http://docs.pkp.sfu.ca/crossref-ojs-manual/](http://docs.pkp.sfu.ca/crossref-ojs-manual/)
+The CrossRef XML Export Plugin allows you to automatically and manually export article metadata in CrossRef XML format for deposit with CrossRef.  For information about how to use this plugin, see the CrossRef OJS Manual: [https://docs.pkp.sfu.ca/crossref-ojs-manual/](https://docs.pkp.sfu.ca/crossref-ojs-manual/)
 
 ### mEDRA Export/Registration Plugin
 

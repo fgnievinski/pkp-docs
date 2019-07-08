@@ -47,7 +47,7 @@ OJS allows you to set the publication schedule that is best for your journal.
 
 
 
-Digital Object Identifiers are becoming increasingly common for online journals, and OJS supports them. You can visit [The DOI System](http://doi.org/) to learn more about registering for a Digital Object Identifier for your journal. A page number option is also available for journals. This is often useful for print journals that are going online.  
+Digital Object Identifiers are becoming increasingly common for online journals, and OJS supports them. You can visit [The DOI System](https://doi.org/) to learn more about registering for a Digital Object Identifier for your journal. A page number option is also available for journals. This is often useful for print journals that are going online.
 
 
 ![Identification of Journal Content](images/chapter5/five_steps/unique.png)

@@ -90,7 +90,7 @@ A `DataObject` class should never access the database directly. If a helper meth
 
 ## Schemas
 
-Entities are defined using an extended version of [json-schema](http://json-schema.org/), a JSON syntax for documenting the properties of an object.
+Entities are defined using an extended version of [json-schema](https://json-schema.org/), a JSON syntax for documenting the properties of an object.
 
 A simple schema with two properties, `id` and `title`, would look like this.
 
@@ -110,7 +110,7 @@ A simple schema with two properties, `id` and `title`, would look like this.
 }
 ```
 
-The json-schema syntax is documented in [these examples](http://json-schema.org/learn/getting-started-step-by-step.html).
+The json-schema syntax is documented in [these examples](https://json-schema.org/learn/getting-started-step-by-step.html).
 
 > **Tip:** JSON is a stricter syntax than JavaScript. Use [JSONLint](https://jsonlint.com/) to identify errors in your schema.
 {:.tip}

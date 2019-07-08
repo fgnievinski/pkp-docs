@@ -104,7 +104,7 @@ Templates use the [Smarty](https://www.smarty.net/) (v3) templating library.
 
 ## API Handlers
 
-API Handlers use the [Slim API framework](http://www.slimframework.com/) and return `JSON` output. Requests are routed to endpoint callbacks defined in the `Handler`'s constructor.
+API Handlers use the [Slim API framework](https://www.slimframework.com/) and return `JSON` output. Requests are routed to endpoint callbacks defined in the `Handler`'s constructor.
 
 ```bash
 $ curl https://example.org/publicknowledge/api/v1/submissions
@@ -277,7 +277,7 @@ class PKPSubmissionsHandler extends APIHandler {
 
 ### Request Objects
 
-The `$slimRequest` object is a PSR 7 object created by the [Slim API framework](http://www.slimframework.com/). It is **not** an instance of the application's main `Request` object that is passed to other `Handler` ops. The application's main `Request` object can be accessed with `APIHandler::getRequest()`.
+The `$slimRequest` object is a PSR 7 object created by the [Slim API framework](https://www.slimframework.com/). It is **not** an instance of the application's main `Request` object that is passed to other `Handler` ops. The application's main `Request` object can be accessed with `APIHandler::getRequest()`.
 
 ```php
 class PKPSubmissionsHandler extends APIHandler {
@@ -290,7 +290,7 @@ class PKPSubmissionsHandler extends APIHandler {
 
 ### Slim Framework
 
-Read the [Slim API Framework usage guide](http://www.slimframework.com/docs/) to learn more about the `$slimRequest` and `$response` objects.
+Read the [Slim API Framework usage guide](https://www.slimframework.com/docs/) to learn more about the `$slimRequest` and `$response` objects.
 
 ## Controller Handlers (deprecated)
 

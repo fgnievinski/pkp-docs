@@ -1,6 +1,6 @@
 # Installation
 
-Open Monograph Press (OMP) has been developed by the Public Knowledge Project. For general information about OJS and other open research systems, visit the [PKP web site](http://pkp.sfu.ca/).
+Open Monograph Press (OMP) has been developed by the Public Knowledge Project. For general information about OJS and other open research systems, visit the [PKP web site](https://pkp.sfu.ca/).
 
 
 ## Licensing
@@ -51,7 +51,7 @@ A secure deployment can be best achieved by using the following policies:
 
 ## Download
 
-OMP can be downloaded from the [Public Knowledge Project web site](http://pkp.sfu.ca/).
+OMP can be downloaded from the [Public Knowledge Project web site](https://pkp.sfu.ca/).
 
 ## Installation
 
@@ -88,7 +88,7 @@ To install OMP:
            easy-to-read patches for specific issues. A Recommended Patches list
            for your version of OMP can be found on the PKP development wiki:
 
-	       <http://pkp.sfu.ca/wiki/index.php/OMP_Recommended_Patches>
+	       <https://pkp.sfu.ca/wiki/index.php/OMP_Recommended_Patches>
 
 	   To apply a recommended patch, open the bug report and download the 
 	   attached patch file(s). (Note that bug reports can quite often
@@ -108,7 +108,7 @@ To install OMP:
 	   "PATCH_FILE" should be replaced with the path to the patch file that 
 	   was downloaded, e.g. "6276-omp.patch".
 
-	5. Open a web browser to <http://yourdomain.com/path/to/omp/> and
+	5. Open a web browser to <https://yourdomain.com/path/to/omp/> and
 	   follow the on-screen installation instructions.
 	   
 	   Alternatively, the command-line installer can be used instead by

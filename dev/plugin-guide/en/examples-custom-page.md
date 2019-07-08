@@ -14,7 +14,7 @@ A generic plugin can do this by hooking into the request lifecycle and loading i
 The example below shows a request to a custom page.
 
 ```
-http://example.org/publicknowledge/tutorialexample
+https://example.org/publicknowledge/tutorialexample
 ```
 
 ```php

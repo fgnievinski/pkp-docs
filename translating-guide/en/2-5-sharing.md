@@ -28,11 +28,11 @@ GitHub "pull request" is the preferred method to submit your
 translations to PKP.
 
 You will find this link extremely helpful to create your local
-repository and submit your changes like described in [Github Documentation for PKP Contributors](http://pkp.sfu.ca/wiki/index.php?title=Github_Documentation_for_PKP_Contributors) (PKP wiki).
+repository and submit your changes like described in [Github Documentation for PKP Contributors](https://pkp.sfu.ca/wiki/index.php?title=Github_Documentation_for_PKP_Contributors) (PKP wiki).
 
 Once you have setup you local and origin forked repository, you will
 need to submit your changes to your remote github repository ("origin")
-as is suggested in [Information for Developers](http://pkp.sfu.ca/wiki/index.php?title=Information_for_Developers#PKP_library_submodule_changes) (PKP wiki).
+as is suggested in [Information for Developers](https://pkp.sfu.ca/wiki/index.php?title=Information_for_Developers#PKP_library_submodule_changes) (PKP wiki).
 
 Notice that, as far as translation files are in root but also in the submodule "lib/pkp" folder, you will need TWO pushes: One for the main "OxS" repository and the other for the submodule "pkp-lib".
 

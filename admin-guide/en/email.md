@@ -68,7 +68,7 @@ On Windows, PHP needs to be configured to send email through a SMTP server \(run
 
 On other platforms such as Linux and Mac OS X, PHP will sent mail using the local sendmail client, so a local MTA such as Sendmail or Postfix must be running and configured to allow outgoing mail.
 
-See [http://www.php.net/mail](http://www.php.net/mail) for more details on configuring PHP's mail functionality.
+See [https://www.php.net/mail](https://www.php.net/mail) for more details on configuring PHP's mail functionality.
 
 Our software can also be configured to use an SMTP server as specified in `config.inc.php`, either with or without authentication.
 

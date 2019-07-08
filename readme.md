@@ -55,13 +55,13 @@ Each of the `cards` provides a `path` which points to markdown files in the `_in
 Create a card under `_includes/cards/<app>/<your-new-resource-name>.md`. Give your card a title with three `###`:
 
 ```
-### [Your resource title](http://link-to-resource.com)
+### [Your resource title](https://link-to-resource.com)
 ```
 
 Add a short description below it, and link to the resource.
 
 ```
-This resource will help you accomplish X. [View Now](http://link-to-resource.com)
+This resource will help you accomplish X. [View Now](https://link-to-resource.com)
 ```
 
 ### Create multiple sections in your resource card

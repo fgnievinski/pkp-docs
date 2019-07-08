@@ -1,6 +1,6 @@
 # HTML/Smarty Templates
 
-OJS and OMP use the [Smarty](http://www.smarty.net/) templating system to compile HTML templates. Smarty is a lightweight syntax which allows you to use simple PHP-like logic within HTML templates.
+OJS and OMP use the [Smarty](https://www.smarty.net/) templating system to compile HTML templates. Smarty is a lightweight syntax which allows you to use simple PHP-like logic within HTML templates.
 
 ## Locating the Frontend Templates
 

@@ -16,7 +16,7 @@ Most of PKP’s existing documentation is on the [PKP website](https://pkp.sfu.c
 
 - **Documents or Guides** // Instructions on how to use, administer, or develop PKP software. Hosted in the [PKP Documentation Hub](https://docs.pkp.sfu.ca) and composed with markdown. Example: [Learning OJS 3](https://docs.pkp.sfu.ca/learning-ojs/).
 - **README Files** // A file included with each release of PKP software and, ideally, with each plugin. Located in the root folder of their specific software/plugin repository in Github, they contain information about the software version, installation, and basic functions, settings/configuration, and usage. Example: [OJS Keyword Cloud Block Plugin readme file](https://github.com/ali-sokhandan/ojs3-keywordcloud-plugin/blob/master/readme.md)
-- **Videos** // Video tutorials on how to use PKP software or participate in scholarly journal publishing. These videos include courses in the [PKP School](https://pkpschool.sfu.ca/). Example: [Setting up a Journal in OJS 3](http://pkpschool.sfu.ca/courses/setting-up-a-journal-in-ojs-3/)
+- **Videos** // Video tutorials on how to use PKP software or participate in scholarly journal publishing. These videos include courses in the [PKP School](https://pkpschool.sfu.ca/). Example: [Setting up a Journal in OJS 3](https://pkpschool.sfu.ca/courses/setting-up-a-journal-in-ojs-3/)
 <!-- - FAQS // These are frequently-asked questions about PKP software that could be part of an individual guide or standalone documents. Example: [PKP FAQ](https://pkp.sfu.ca/wiki/index.php?title=PKP_Frequently_Asked_Questions) -->
 - **Web pages** // The PKP website has information about PKP platforms or the organization that does not consist of usage instructions but is still instructive/supportive. PKP Staff maintains these pages. Example: [Editorial Resources](https://pkp.sfu.ca/editorial-resources/)
 
@@ -42,7 +42,7 @@ There many ways to contribute to PKP software documentation whether you want to 
 
 5. **Translate** // PKP software users live all over the world and speak many different languages. PKP software has been translated into [over 35 languages](https://pkp.sfu.ca/developers/translation/). Most PKP software documentation is written in English initially and needs translation into other languages. If you are a fluent reader of English and fluent writer of another language, translating documentation into the other language is a valuable contribution to the documentation project. <!-- note here on how translations are managed -->
 
-6. **Make an instructional video or screencast** // PKP has a set of videos called [PKP School](http://pkpschool.sfu.ca/) on how to use OJS and contribute to OJS journals, and we are building a collection of other videos about PKP software. If you’re interested in making video tutorials on using PKP software, you can volunteer to help make PKP School videos, or you can make your own video on how to carry out a task or set of tasks in one of the PKP software tools. To assist with PKP School videos, contact Kevin Stranack at kstranac@sfu.ca. Guidelines for making videos are below.
+6. **Make an instructional video or screencast** // PKP has a set of videos called [PKP School](https://pkpschool.sfu.ca/) on how to use OJS and contribute to OJS journals, and we are building a collection of other videos about PKP software. If you’re interested in making video tutorials on using PKP software, you can volunteer to help make PKP School videos, or you can make your own video on how to carry out a task or set of tasks in one of the PKP software tools. To assist with PKP School videos, contact Kevin Stranack at kstranac@sfu.ca. Guidelines for making videos are below.
 
 7. **Share your local documentation with the PKP user community** // Have you made a document about PKP software that is specific to your local institution, journal, conference, or press? It may be useful to the broader PKP user community if it provides information and instructions not available elsewhere or if other users are looking for examples of institutional or journal-specific documentation.  We are building a collection of external documentation. To add to it, please contact [documentation@publicknowledgeproject.org](mailto:documentation@publicknowledgeproject.org).
 
@@ -91,11 +91,11 @@ For each task you can see the following information:
 - Try to anticipate problems and issues that the user might have. Explain how to overcome them.
 - When using pronouns to refer to a generic user, use gender-neutral pronouns such as “they,” “their,” and “them.” Use “they” instead of “he” or “she.” Use “their” instead of “his” or “her.” Use “them” instead of “her” or “him.” Use “themselves” instead of “himself” or “herself.”
 
-You can learn more about writing good docs with this [Documentation Guide by WritetheDocs](http://www.writethedocs.org/guide/).
+You can learn more about writing good docs with this [Documentation Guide by WritetheDocs](https://www.writethedocs.org/guide/).
 
 ## Tips for making video documentation
 
-- Consider what you want the video to look like, how long it will be, and what your objective or purpose is. Create an outline and script, and practice before recording. 
+- Consider what you want the video to look like, how long it will be, and what your objective or purpose is. Create an outline and script, and practice before recording.
 - Keep it short and focused, ideally 5 minutes or 10 minutes at the maximum. If you want to cover content that goes beyond that length, break the content into a few short videos.
 - Ensure good audio quality by using a microphone and recording in a quiet location with no background noise or echo. 
 - Close all other tabs and applications and only record the window or part of your screen that is necessary to the demonstration.
@@ -122,6 +122,6 @@ Older versions of the documentation are accessible – via GitHub branches – f
 
 ## Attribution, Copyright, Licensing
 
-All PKP documentation is licensed under a [Creative Commons BY license](http://creativecommons.org/licenses/by/4.0/). Contributors are acknowledged for contributions that they make, but the documents are owned by the Public Knowledge Project and Simon Fraser University Library.  
+All PKP documentation is licensed under a [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/). Contributors are acknowledged for contributions that they make, but the documents are owned by the Public Knowledge Project and Simon Fraser University Library.
 
 If you wish to retain ownership of documentation about PKP software that you create and contribute to the PKP project, you can host it in your own repository or on your website, and we can link to it.

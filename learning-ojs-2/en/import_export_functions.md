@@ -22,7 +22,7 @@ The resulting page displays the available options to **Import/Export Data**.
 
 Covered in the online documentation:
 
-* Erudit Article Export Plugin: This plugin allows you to export articles using the English Erudit DTD. This would allow your journal to interoperate with the [Erudit](http://www.erudit.org/) publishing system from the Université de Montréal.
+* Erudit Article Export Plugin: This plugin allows you to export articles using the English Erudit DTD. This would allow your journal to interoperate with the [Erudit](https://www.erudit.org/) publishing system from the Université de Montréal.
 
 * PubMed XML Export Plugin: Export article metadata in PubMed XML format for indexing in MEDLINE. This would be appropriate for health science journals that have been accepted for indexing in MEDLINE.
 
@@ -34,7 +34,7 @@ Covered in the online documentation:
 
 * Public Identifiers XML Plugin: Import and export public identifiers.
 
-* METS XML Export Plugin: Export journal metadata in [METS XML](http://www.loc.gov/standards/mets/) format.
+* METS XML Export Plugin: Export journal metadata in [METS XML](https://www.loc.gov/standards/mets/) format.
 
 * DataCite Export/Registration Plugin: Export or register issue, article, galley and supplementary file metadata in DataCite format.
 
@@ -42,6 +42,6 @@ Covered in the online documentation:
 
 * mEDRA Export/Registration Plugin: Export issue, article and galley metadata in Onix for DOI (O4DOI) format and register DOIs with the mEDRA registration agency.
 
-* CrossRef Export/Registration Plugin: Export or register article metadata in [CrossRef](http://crossref.org/) format.
+* CrossRef Export/Registration Plugin: Export or register article metadata in [CrossRef](https://crossref.org/) format.
 
 * Articles & Issues XML Plugin: This is useful for exporting the article and issue metadata from one OJS journal to another. It can also be used for importing large amounts of back content from outside of OJS.

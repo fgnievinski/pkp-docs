@@ -16,7 +16,7 @@ HookRegistry::register(
 In the example above, the parameters to ``HookRegistry::register`` are:
 
 1. The name of the hook. See the complete list of hooks below.
-2. The callback function to which control should be passed when the hook is encountered. This is the same callback format used by PHP's ``call_user_func`` function; see the documentation at http://php.net for more information. It is important that ``$this`` be included in the array by reference, or you may encounter problems with multiple instances of the plugin object.
+2. The callback function to which control should be passed when the hook is encountered. This is the same callback format used by PHP's ``call_user_func`` function; see the documentation at https://php.net for more information. It is important that ``$this`` be included in the array by reference, or you may encounter problems with multiple instances of the plugin object.
 
 The definition of the callback function (named and located in the above registration call) is:
 

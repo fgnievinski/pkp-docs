@@ -154,7 +154,7 @@ The names.txt file has to be stored somewhere on the server and the location ref
 
 ## Security FAQ
 
-> Section Contributed by Kenton Good, and adapted from the [PKP Community Forum](http://forum.pkp.sfu.ca/t/pkp-applications-and-security/27991)
+> Section Contributed by Kenton Good, and adapted from the [PKP Community Forum](https://forum.pkp.sfu.ca/t/pkp-applications-and-security/27991)
 
 Below are some general questions we have answered more than a few times in the past, along with some responses. We will add to this list as we receive questions over time.
 

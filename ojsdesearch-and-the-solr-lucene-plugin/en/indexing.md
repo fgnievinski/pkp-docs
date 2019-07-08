@@ -33,7 +33,7 @@ There are two basic design options to index a multilingual document collection:
 1. Use one index per language
 2. Use one field per language in a single index
 
-See [http://lucene.472066.n3.nabble.com/Designing-a-multilingual-index-td688766.html](http://lucene.472066.n3.nabble.com/Designing-a-multilingual-index-td688766.html) for a discussion of multilingual index design.
+See [https://lucene.472066.n3.nabble.com/Designing-a-multilingual-index-td688766.html](https://lucene.472066.n3.nabble.com/Designing-a-multilingual-index-td688766.html) for a discussion of multilingual index design.
 
 Advantages of a single index:
 
@@ -113,7 +113,7 @@ In deployment scenario S4 we have an unspecified number of disparate document ty
 
 The present specification only deals with the second case as the first almost certainly requires provider-specific customization of OJS code that we do have no information about.
 
-Our index architecture recommendation for the S4 scenario is to create a separate dedicated solr core with OJS documents exactly as in scenario S3. Then searches to the "OJS core" can be combined with queries to solr cores with non-OJS document types in federated search requests from arbitrary third-party search interfaces within the provider's network. \(See [http://stackoverflow.com/questions/2139030/search-multiple-solr-cores-and-return-one-result-set](http://stackoverflow.com/questions/2139030/search-multiple-solr-cores-and-return-one-result-set) for one possible solution of federated search.\)
+Our index architecture recommendation for the S4 scenario is to create a separate dedicated solr core with OJS documents exactly as in scenario S3. Then searches to the "OJS core" can be combined with queries to solr cores with non-OJS document types in federated search requests from arbitrary third-party search interfaces within the provider's network. \(See [https://stackoverflow.com/questions/2139030/search-multiple-solr-cores-and-return-one-result-set](https://stackoverflow.com/questions/2139030/search-multiple-solr-cores-and-return-one-result-set) for one possible solution of federated search.\)
 
 This has the advantage that the standard OJS solr search support can be used unchanged based on the same documentation resources that we provide to support S3 \(see previous section\).
 
@@ -131,7 +131,7 @@ To support multilingual search and proper ranking of multilingual content we nee
 
 In order to avoid ranking problems we also prefer to have separate fields per document format \(e.g. PDF, HTML, MS Word\) rather than joining all data formats into a single search field. We can use query expansion to cover all formats while still maintaining good ranking metrics even when certain formats are not used as frequently as other formats.
 
-The relatively large number of required fields for such a denormalized multilingual/multiformat data model is not a problem in Lucene \(see [http://lucene.472066.n3.nabble.com/Maximum-number-of-fields-allowed-in-a-Solr-document-td505435.html](http://lucene.472066.n3.nabble.com/Maximum-number-of-fields-allowed-in-a-Solr-document-td505435.html)\). Storing sparse or denormalized data is efficient in Lucene, comparable to a NoSQL database.
+The relatively large number of required fields for such a denormalized multilingual/multiformat data model is not a problem in Lucene \(see [https://lucene.472066.n3.nabble.com/Maximum-number-of-fields-allowed-in-a-Solr-document-td505435.html](https://lucene.472066.n3.nabble.com/Maximum-number-of-fields-allowed-in-a-Solr-document-td505435.html)\). Storing sparse or denormalized data is efficient in Lucene, comparable to a NoSQL database.
 
 We prefer dynamic fields over statically configured fields:
 
@@ -276,7 +276,7 @@ The second standard solr preprocessing plug-in, IDH, is a flexible extraction, t
 Unfortunately even IDH has two limitations that are relevant in our case:
 
 * IDH's XPath implementation is incomplete. It does not support certain types of XPath queries that are relevant to us: An IDH XPath query cannot qualify on two different XML attributes at the same time which rules out the possibility to transmit native OJS XML to IDH.
-* Due to it's sequential “row” concept imposed on XML parsing, IDH also does not usually support denormalizing several binary documents into a single Lucene document. In fact no standard solr contribution is designed to do so out-of-the-box \(see [http://lucene.472066.n3.nabble.com/multiple-binary-documents-into-a-single-solr-document-Vignette-OpenText-integration-td472172.html](http://lucene.472066.n3.nabble.com/multiple-binary-documents-into-a-single-solr-document-Vignette-OpenText-integration-td472172.html)\). Only by developing a custom XML data transmission format with CDATA-embedded XML sub-documents did we manage to work around this limitation without having to resort to custom compiled Java code on the server side, see “XML format for article addition” below.
+* Due to it's sequential “row” concept imposed on XML parsing, IDH also does not usually support denormalizing several binary documents into a single Lucene document. In fact no standard solr contribution is designed to do so out-of-the-box \(see [https://lucene.472066.n3.nabble.com/multiple-binary-documents-into-a-single-solr-document-Vignette-OpenText-integration-td472172.html](https://lucene.472066.n3.nabble.com/multiple-binary-documents-into-a-single-solr-document-Vignette-OpenText-integration-td472172.html)\). Only by developing a custom XML data transmission format with CDATA-embedded XML sub-documents did we manage to work around this limitation without having to resort to custom compiled Java code on the server side, see “XML format for article addition” below.
 
 Recommendation: Use IDH for document preprocessing with a custom XML document transmission format.
 

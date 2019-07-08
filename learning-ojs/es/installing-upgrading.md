@@ -4,7 +4,7 @@ Este capítulo cubre cómo instalar OJS 3 por primera vez, y cómo actualizar un
 
 ## Instalación
 Open Journal Systems (OJS) ha sido desarrollado por el Proyecto de Conocimiento Público.
-Para obtener información general sobre OJS y otros sistemas de investigación abiertos, visite la página web de PKP en [http://pkp.sfu.ca/](http://pkp.sfu.ca).
+Para obtener información general sobre OJS y otros sistemas de investigación abiertos, visite la página web de PKP en [https://pkp.sfu.ca/](https://pkp.sfu.ca).
 
 ### Licencias
 OJS está licenciado bajo la GNU General Public License v2. Ver el archivo docs/COPY1 para obtener los términos completos de esta licencia.
@@ -30,7 +30,7 @@ La mejor manera de lograr una implementación segura es utilizar las siguientes 
 * Instale OJS de manera que el directorio de archivos NO sea un subdirectorio de la instalación de OJS y no se pueda acceder directamente a través de la web servidor. Restrinja los permisos de los archivos tanto como sea posible. Automatizado las copias de seguridad de este directorio deben estar sincronizadas con copias de seguridad de la base de datos. Estos pasos **son críticos para mantener un entorno seguro**. y evitar el mal uso o la piratería de de su revista.
 
 ### Descargar
-Los OJS pueden descargarse del [sitio web](http://pkp.sfu.ca) del Proyecto de Conocimiento Público.
+Los OJS pueden descargarse del [sitio web](https://pkp.sfu.ca) del Proyecto de Conocimiento Público.
 
 ### Instalación
 Por favor revise este documento y el documento RELEASE antes de instalar OJS.
@@ -47,7 +47,7 @@ Para instalar OJS:
    * cache/t_compile
    * cache/_db
 3. Crear un directorio para almacenar los archivos subidos (archivos de envío, etc.) y hacer que este directorio sea escribible. Se recomienda encarecidamente que este se coloque en una ubicación no accesible a través de la web para garantizar una ubicación segura. medio ambiente (o protegidos de otro modo contra el acceso directo, como a través de .htaccess).
-4. Abra un navegador web en http://yourdomain.com/path/to/ojs/  y siga las instrucciones de instalación en pantalla.
+4. Abra un navegador web en https://yourdomain.com/path/to/ojs/  y siga las instrucciones de instalación en pantalla.
 Alternativamente, el instalador de la línea de comandos puede ser usado ejecutando el comando "php tools/install.php" desde su directorio OJS. ((Nota: con el instalador CLI puede que tenga que hacer “chown/chmod” en los directorios de archivos públicos y cargados después de la instalación, si el usuario de Apache es diferente del usuario que está ejecutando la herramienta.)
 5. Pasos adicionales recomendados después de la instalación:
    * Revisar “config.inc.php” para ajustes de configuración adicionales

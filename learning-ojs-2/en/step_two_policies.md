@@ -96,7 +96,7 @@ If you wish to add more information to the "About the Journal" section, this sec
 
 
 
-LOCKSS is an open source solution to archiving online journals. To ensure the preservation of your journal, follow the steps outlined in this section. OJS will even generate the email message to send to participating libraries. Visit [LOCKSS](http://www.lockss.org/) to find out more bout the program.
+LOCKSS is an open source solution to archiving online journals. To ensure the preservation of your journal, follow the steps outlined in this section. OJS will even generate the email message to send to participating libraries. Visit [LOCKSS](https://www.lockss.org/) to find out more bout the program.
 
 
 

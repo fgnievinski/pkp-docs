@@ -33,7 +33,7 @@ Problems may occur if:
 * your server configuration does not support the first two options;
 * you do not have sufficient permissions to run an external tool as in the third 
 
-Additionally, you may be encountering problems due to malformed files. If you are having trouble having your HTML files recognized, you may want to run them through [HTML-Tidy](http://www.w3.org/People/Raggett/tidy/) or otherwise ensure that they are valid HTML. HTML files created by word processors in particular may have a hard time being recognized as HTML.
+Additionally, you may be encountering problems due to malformed files. If you are having trouble having your HTML files recognized, you may want to run them through [HTML-Tidy](https://www.w3.org/People/Raggett/tidy/) or otherwise ensure that they are valid HTML. HTML files created by word processors in particular may have a hard time being recognized as HTML.
 
 You may also want to search the [forum](https://forum.pkp.sfu.ca) for the keywords "magic mime" or for "mimetype" -- many users have had this problem, and there are several discussions on how to solve it.
 

@@ -1,6 +1,6 @@
 # Technologies
 
-Open Journal Systems 2.x is written in object-oriented PHP (http://www.php.net) using the Smarty template system for user interface abstraction (http://smarty.net). Data is stored in a SQL database, with database calls abstracted via the ADODB Database Abstraction library (http://adodb.sourceforge.net).
+Open Journal Systems 2.x is written in object-oriented PHP (https://www.php.net) using the Smarty template system for user interface abstraction (https://smarty.net). Data is stored in a SQL database, with database calls abstracted via the ADODB Database Abstraction library (https://adodb.sourceforge.net).
 
 Recommended server configurations:
 

@@ -4,7 +4,7 @@ As a Crossref Sponsoring Organization, PKP can also act as sponsor and represent
 
 ## Eligible Countries
 
-Organizations from the following countries (who are in the [Low Income Country](http://data.worldbank.org/income-level/LIC) category, or in the [Low & Middle Income country list](http://data.worldbank.org/income-level/LMC) and whose GNI per capita is up to $1,500) may be eligible for sponsorship.
+Organizations from the following countries (who are in the [Low Income Country](https://data.worldbank.org/income-level/LIC) category, or in the [Low & Middle Income country list](https://data.worldbank.org/income-level/LMC) and whose GNI per capita is up to $1,500) may be eligible for sponsorship.
 
 
   | Afghanistan (LIC) | Central African Republic (LIC) | Gambia (LIC) | Liberia (LIC) | Niger (LIC) |
@@ -18,7 +18,7 @@ Organizations from the following countries (who are in the [Low Income Country](
   | Somalia (LIC) | Zambia (LMC) | Cameroon (LMC) | Ethiopia (LIC) | LAO PDR (LMC) |
   | Nepal (LIC) | South Sudan (LMC) | Zimbabwe (LIC) | | |
 
-For further eligibility criteria and any other information, [contact us](mailto:pkp.contact@gmail.com). If you believe your journal meets the PKP Sponsorship requirements and you'd like to submit an eligibility form, you can [click here to fill one out](http://goo.gl/forms/2mme6t19OBp79ezp2).
+For further eligibility criteria and any other information, [contact us](mailto:pkp.contact@gmail.com). If you believe your journal meets the PKP Sponsorship requirements and you'd like to submit an eligibility form, you can [click here to fill one out](https://goo.gl/forms/2mme6t19OBp79ezp2).
 
 ## PKP Publishing Services clients
 

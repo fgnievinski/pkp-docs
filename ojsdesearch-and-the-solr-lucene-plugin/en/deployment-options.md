@@ -76,7 +76,7 @@ Even in the embedded scenario, jetty and solr will need to be upgraded from time
 
 ### Starting/Stopping Solr
 
-In the embedded scenario, solr can be started from within OJS with a background exec\(\) call of a start script running a daemonized version of jetty with proper start parameters. On Windows this will probably not work without additional installation steps to create a system service. We may alternatively try to work around this restriction by running Jetty within a “permanent” PHP background process \(e.g.[http://stackoverflow.com/questions/45953/php-execute-a-background-process](http://stackoverflow.com/questions/45953/php-execute-a-background-process)\). Whether this works has to be tested in practice. It doesn't seem to be a very scalable and reliable option, though.
+In the embedded scenario, solr can be started from within OJS with a background exec\(\) call of a start script running a daemonized version of jetty with proper start parameters. On Windows this will probably not work without additional installation steps to create a system service. We may alternatively try to work around this restriction by running Jetty within a “permanent” PHP background process \(e.g.[https://stackoverflow.com/questions/45953/php-execute-a-background-process](https://stackoverflow.com/questions/45953/php-execute-a-background-process)\). Whether this works has to be tested in practice. It doesn't seem to be a very scalable and reliable option, though.
 
 Alternatively the Linux or Windows shell solr start script provided in plugins/generic/solr/embedded/bin can always be executed directly on the OJS server.
 

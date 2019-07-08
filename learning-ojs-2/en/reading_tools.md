@@ -106,7 +106,7 @@ Returning to the Reading Tools menu, you can now choose **Validate URLs for Read
 
 ## Sharing the Reading Tools
 
-This option will allow you to add social networking links (Facebook, Delicious) to your Reading Tools via the [AddThis](http://addthis.com) service. 
+This option will allow you to add social networking links (Facebook, Delicious) to your Reading Tools via the [AddThis](https://addthis.com) service. 
 
 * First, under Sharing select Configure AddThis.
 

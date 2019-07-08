@@ -44,7 +44,7 @@ By default, the most important menu navigation links will be included in your jo
 
 Under Journal Layout you can choose a journal theme or upload a style sheet of your own. The listed themes will change the site colours, but will not affect layout. You can also modify the position of content blocks from left to right sidebars, move them up or down the sidebar, or eliminate them altogether.
 
-A copy of the general **OJS v.2.x** style sheet is available at: [http://pkp.sfu.ca/ojs/download/common.css](http://pkp.sfu.ca/ojs/download/common.css) You can also find a thorough guide on customizing your journal's style and using themes in the [online documentation](https://pkp.sfu.ca/wiki/index.php/Customizing_OJS).
+A copy of the general **OJS v.2.x** style sheet is available at: [https://pkp.sfu.ca/ojs/download/common.css](https://pkp.sfu.ca/ojs/download/common.css) You can also find a thorough guide on customizing your journal's style and using themes in the [online documentation](https://pkp.sfu.ca/wiki/index.php/Customizing_OJS).
 
 ![Journal Layout](images/chapter5/five_steps/layout.png)
 

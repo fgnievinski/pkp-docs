@@ -15,7 +15,7 @@ Figure: Site Administrator Language Options
 
 The Languages page is divided into three sections: Language Settings, Manage Locales, and Download Locales.
 
-The Download Locales section allows you to download new locales straight from the OJS website to your OJS install as they become available. To download locales, your server must be able to execute the [GNU tar utility](http://www.gnu.org/software/tar/), and must be able to modify the locale registry file (registry/filename.xml). Locales can always be downloaded and installed manually -- see the [online documentation](https://pkp.sfu.ca/wiki/index.php?title=OJS_Documentation) for more information.
+The Download Locales section allows you to download new locales straight from the OJS website to your OJS install as they become available. To download locales, your server must be able to execute the [GNU tar utility](https://www.gnu.org/software/tar/), and must be able to modify the locale registry file (registry/filename.xml). Locales can always be downloaded and installed manually -- see the [online documentation](https://pkp.sfu.ca/wiki/index.php?title=OJS_Documentation) for more information.
 
 The Manage Locales section allows you to install new locales, reload existing locales in case you have updated locale files, and uninstall locales if they are no longer necessary. To install a new locale, check the box next to the locale name and click the **Install Locale** button. If you have modified a previously installed locale and would like to reload it, click the **Reload** link. To remove the locale from the list of installed locales, click the **Uninstall Locale** link.
 

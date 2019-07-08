@@ -37,18 +37,18 @@
 
 If you have not configured the plugin to deposit DOIs automatically, you can register them manually yourself by using the "Register" button on the **Unregistered Articles**, **All Issues** or **All Articles** page. For best results, register a small amount of DOIs at a time. Registration can take a while for large uploads to Crossref servers. Large batch uploads are likely better performed via XML Export.
 
-If your DOIs fail to properly register or you get confusing feedback from the plugin, please read the [troubleshooting](troubleshooting.md) documentation for guidance.  
+If your DOIs fail to properly register or you get confusing feedback from the plugin, please read the [troubleshooting](troubleshooting.md) documentation for guidance.
 
 # Depositing DOIs with Crossref via XML Export
 
-You can export batch XML files to upload via the [Crossref backend](http://doi.Crossref.org). From the Crossref plugin you can use the "Export" button on the **Unregistered Articles**, **All Issues** or **All Articles** pages. You'll be asked where you'd like to save the XML. You can then navigate to the Crossref backend, login with your credentials, and upload your XML from there.
+You can export batch XML files to upload via the [Crossref backend](https://doi.Crossref.org). From the Crossref plugin you can use the "Export" button on the **Unregistered Articles**, **All Issues** or **All Articles** pages. You'll be asked where you'd like to save the XML. You can then navigate to the Crossref backend, login with your credentials, and upload your XML from there.
 
 ## Export Registration Steps
 
 1. Export from OJS by selecting the articles/issues you'd like to export and clicking the Export button.
 2. Save the XML file locally.
-3. Navigate to Crossref's [metadata quality check](http://www.Crossref.org/02publishers/parser.html) and upload your file here first to check for any validation errors.
-4. Login to your [Crossref member backend](http://doi.Crossref.org).
+3. Navigate to Crossref's [metadata quality check](https://www.Crossref.org/02publishers/parser.html) and upload your file here first to check for any validation errors.
+4. Login to your [Crossref member backend](https://doi.Crossref.org).
 5. Click on the **Submissions** tab.
 6. Click on "choose file" and select your XML export file. Make sure that "metadata" is selected below, and click upload.
 
