@@ -21,6 +21,8 @@ administration web interface.
 GitHub "pull request" is the preferred method to submit your
 translations to PKP.
 
+(If you are not a programmer and the instructions seem daunting, please don't give up sharing your translation! Just create a new issue in the bugtracker and manually upload your modified files: https://github.com/pkp/pkp-lib/issues)
+
 You will find this link extremely helpful to create your local
 repository and submit your changes like described in [Github Documentation for PKP Contributors](http://pkp.sfu.ca/wiki/index.php?title=Github_Documentation_for_PKP_Contributors) (PKP wiki).
 
