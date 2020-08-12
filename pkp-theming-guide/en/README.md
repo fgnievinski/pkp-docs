@@ -4,6 +4,8 @@ The PKP Theming Guide is an introduction to building custom themes for Open Jour
 
 This guide is a living document that will grow and adapt over time. It is based on initial work undertaken during the PKP Sprint Fall 2016, and benefits from feedback and contributions from people like you.
 
+PS: you just just want to select one of the themes shipped with OJS, check the [Appearance section under Website Settings](https://docs.pkp.sfu.ca/learning-ojs/en/settings-website#theme).
+
 ----
 
 Copyright: Simon Fraser University holds the copyright for work produced by the Public Knowledge Project and has placed its documentation under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
